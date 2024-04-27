@@ -20,7 +20,7 @@
 ###
 
 <p align="left">I'm a junior studying Business Analytics at the University of Southern California<br><br>
-  - 🔭 I’m currently working on **Dense Neural Networks for predictive analysis** <br><br>- 🌱 I'm currently learning **Convolutional Neural Networks** <br><br>- 📈 Ask me about the **stock market, quant trading, and all things finance!** <br><br>- 📫 Reach me at: **anushree7773@gmail.com** <br><br>- 🎵 In my free time **I like making playlists** <br><br>- 🔍 Fun fact: **I can speak 5 languages!** </p>
+  - 🔭 I’m currently working on <strong>Dense Neural Networks for predictive analysis</strong> <br><br>- 🌱 I'm currently learning <strong>Convolutional Neural Networks</strong> <br><br>- 📈 Ask me about the <strong>stock market, quant trading, and all things finance!</strong> <br><br>- 📫 Reach me at: <strong>anushree7773@gmail.com</strong> <br><br>- 🎵 In my free time <strong>I like making playlists</strong> <br><br>- 🔍 Fun fact: <strong>I can speak 5 languages!</strong> </p>
 
 ###
 
