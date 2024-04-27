@@ -5,13 +5,14 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
+  <a href="https://www.linkedin.com/in/anushree-sharma-hi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
-<h1 align="center">Hello World 👋<br>I'm Anushree</h1>
+<h1 align="center">Hello World 👋 I'm Anushree</h1>
 
 ###
 
@@ -19,8 +20,7 @@
 
 ###
 
-<p align="left">I'm a junior studying Business Analytics at the University of Southern California<br><br>
-  - 🔭 I’m currently working on <strong>Dense Neural Networks for predictive analysis</strong> <br><br>- 🌱 I'm currently learning <strong>Convolutional Neural Networks</strong> <br><br>- 📈 Ask me about the <strong>stock market, quant trading, and all things finance!</strong> <br><br>- 📫 Reach me at: <strong>anushree7773@gmail.com</strong> <br><br>- 🎵 In my free time <strong>I like making playlists</strong> <br><br>- 🔍 Fun fact: <strong>I can speak 5 languages!</strong> </p>
+<p align="left">I'm a junior studying Business Analytics at the University of Southern California<br><br>- 🔭 I’m currently working on Dense Neural Networks for predictive analysis<br><br>- 🌱 I'm currently learning Convolutional Neural Networks<br><br>- 📈 Ask me about the stock market, quant trading, and all things finance!<br><br>- 📫 Reach me at: anushree7773@gmail.com<br><br>- 🎵 In my free time I like making playlists<br><br>- 🔍 Fun fact: I can speak 5 languages!</p>
 
 ###
 
