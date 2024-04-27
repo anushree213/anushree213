@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anushree Sharma
 - 📫 I'm studying Business Analytics at USC
-- 👀 I’m interested in data engineering and SWE
+- 👀 I’m interested in
 - 🌱 I’m currently learning machine learning
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
