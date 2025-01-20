@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left"> <strong>I'm a junior studying Business Analytics at the University of Southern California.</strong>
+<p align="left">I'm a junior studying Business Analytics at the University of Southern California.
 
 ###
 
